@@ -1,3 +1,8 @@
+# TODO
+# - SECURITY
+#   does http need to write to themesdir?
+#   defattr(640,root,http,750)
+#   if no then should be defattr(644,root,root)
 Summary:	Additional themes for the WordPress personal publishing system
 Summary(pl):	Dodatkowe motywy dla osobistego systemu publikacji WordPress
 Name:		wordpress-themes
