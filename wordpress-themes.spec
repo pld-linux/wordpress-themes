@@ -22,7 +22,7 @@ Source15:	http://chris.coggburn.us/wp-content/cleanbreeze/releases/cleanbreeze11
 Source16:	Conestogastreet.zip
 # Source16-md5:	044ade9ef3b0990999e21750e4300fcc
 Source17:	http://www.eretzvaju.org/download/devenir_en_gris.tgz
-# Source17-md5:	91d0d41db327bb01bccdf6541551dd19
+# Source17-md5:	85f39ca8b50c1839d9c1a6b44d21b2ff
 Source18:	http://supremecolor.xoopiter.com/LtStuff/dxx.rar
 # Source18-md5:	f70f5296922b5d057635de1acafcd305
 Source20:	http://www.lamateporunyogur.com/misc/hiperminimalist-v1.zip
