@@ -47,7 +47,6 @@ Source28:	thoughtmechanics.zip
 # Source28-md5:	ab7bd7c6eb775600bee34b1f4c7631d1
 Source29:	http://www.eretzvaju.org/download/trident.tgz
 # Source29-md5:	f384f5f6276c7702a9ccb3fe3c5c7f13
-BuildRequires:	FIX-FILES(numerous duplicates)
 BuildRequires:	unrar
 Requires:	wordpress = %{version}
 Obsoletes:	wordpress-theme
@@ -361,22 +360,18 @@ rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(640,root,http,750)
-%dir %{wordpressdir}
 %dir %{themesdir}
 %{themesdir}/*
-%{themesdir}/*/*
 
 %files -n wordpress-theme-Bionicjive
 %defattr(640,root,http,750)
 %dir %{themesdir}/bionicjive
 %{themesdir}/bionicjive/*
-%{themesdir}/bionicjive/*/*
 
 %files -n wordpress-theme-Benevolence
 %defattr(640,root,http,750)
 %dir %{themesdir}/benevolence
 %{themesdir}/benevolence/*
-%{themesdir}/benevolence/*/*
 
 %files -n wordpress-theme-Black
 %defattr(640,root,http,750)
@@ -387,19 +382,16 @@ rm -rf $RPM_BUILD_ROOT
 %defattr(640,root,http,750)
 %dir %{themesdir}/China*Red*
 %{themesdir}/China*Red*/*
-%{themesdir}/China*Red*/*/*
 
 %files -n wordpress-theme-Cleanbreeze
 %defattr(640,root,http,750)
 %dir %{themesdir}/cleanbreeze
 %{themesdir}/cleanbreeze/*
-%{themesdir}/cleanbreeze/*/*
 
 %files -n wordpress-theme-Conestogastreet
 %defattr(640,root,http,750)
 %dir %{themesdir}/Conestogastreet
 %{themesdir}/Conestogastreet/*
-%{themesdir}/Conestogastreet/*/*
 
 %files -n wordpress-theme-Devenir_en_gris
 %defattr(640,root,http,750)
@@ -420,13 +412,11 @@ rm -rf $RPM_BUILD_ROOT
 %defattr(640,root,http,750)
 %dir %{themesdir}/Neuron
 %{themesdir}/Neuron/*
-%{themesdir}/Neuron/*/*
 
 %files -n wordpress-theme-Old_train
 %defattr(640,root,http,750)
 %dir %{themesdir}/old_train
 %{themesdir}/old_train/*
-%{themesdir}/old_train/*/*
 
 %files -n wordpress-theme-Parishuddha
 %defattr(640,root,http,750)
@@ -437,19 +427,16 @@ rm -rf $RPM_BUILD_ROOT
 %defattr(640,root,http,750)
 %dir %{themesdir}/pool-v106
 %{themesdir}/pool-v106/*
-%{themesdir}/pool-v106/*/*
 
 %files -n wordpress-theme-Spiral
 %defattr(640,root,http,750)
 %dir %{themesdir}/spiral
 %{themesdir}/spiral/*
-%{themesdir}/spiral/*/*
 
 %files -n wordpress-theme-Spirit
 %defattr(640,root,http,750)
 %dir %{themesdir}/spirit
 %{themesdir}/spirit/*
-%{themesdir}/spirit/*/*
 
 %files -n wordpress-theme-Steam
 %defattr(640,root,http,750)
@@ -460,7 +447,6 @@ rm -rf $RPM_BUILD_ROOT
 %defattr(640,root,http,750)
 %dir %{themesdir}/thoughtmechanics
 %{themesdir}/thoughtmechanics/*
-%{themesdir}/thoughtmechanics/*/*
 
 %files -n wordpress-theme-Trident
 %defattr(640,root,http,750)
