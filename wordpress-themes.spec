@@ -47,9 +47,10 @@ Source28:	thoughtmechanics.zip
 # Source28-md5:	ab7bd7c6eb775600bee34b1f4c7631d1
 Source29:	http://www.eretzvaju.org/download/trident.tgz
 # Source29-md5:	f384f5f6276c7702a9ccb3fe3c5c7f13
+BuildRequires:	FIX-FILES-AND-PREP
+BuildRequires:	unrar
 Requires:	wordpress = %{version}
 Obsoletes:	wordpress-theme
-BuildRequires:	unrar
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
@@ -86,7 +87,7 @@ Obsoletes:	wordpress-themes
 The Bionicjive theme for WordPress publishing system.
 
 %description -n wordpress-theme-Bionicjive -l pl
-Motyw Bionicjive dla WordPress publishing system.
+Motyw Bionicjive dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Benevolence
 Summary:	Benevolence theme for WordPress
@@ -101,7 +102,7 @@ Obsoletes:	wordpress-themes
 The Benevolence theme for WordPress publishing system.
 
 %description -n wordpress-theme-Benevolence -l pl
-Motyw Benevolence dla WordPress publishing system.
+Motyw Benevolence dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Black
 Summary:	Black theme for WordPress
@@ -116,7 +117,7 @@ Obsoletes:	wordpress-themes
 The Black theme for WordPress publishing system.
 
 %description -n wordpress-theme-Black -l pl
-Motyw Black dla WordPress publishing system.
+Motyw Black dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-ChinaRed_1
 Summary:	ChinaRed_1 theme for WordPress
@@ -131,7 +132,7 @@ Obsoletes:	wordpress-themes
 The ChinaRed_1 theme for WordPress publishing system.
 
 %description -n wordpress-theme-ChinaRed_1 -l pl
-Motyw ChinaRed_1 dla WordPress publishing system.
+Motyw ChinaRed_1 dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Cleanbreeze
 Summary:	Cleanbreeze theme for WordPress
@@ -146,7 +147,7 @@ Obsoletes:	wordpress-themes
 The Cleanbreeze111 theme for WordPress publishing system.
 
 %description -n wordpress-theme-Cleanbreeze -l pl
-Motyw Cleanbreeze111 dla WordPress publishing system.
+Motyw Cleanbreeze111 dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Conestogastreet
 Summary:	Conestogastreet theme for WordPress
@@ -161,7 +162,7 @@ Obsoletes:	wordpress-themes
 The Conestogastreet theme for WordPress publishing system.
 
 %description -n wordpress-theme-Conestogastreet -l pl
-Motyw Conestogastreet dla WordPress publishing system.
+Motyw Conestogastreet dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Devenir_en_gris
 Summary:	Devenir_en_gris theme for WordPress
@@ -176,7 +177,7 @@ Obsoletes:	wordpress-themes
 The Devenir_en_gris theme for WordPress publishing system.
 
 %description -n wordpress-theme-Devenir_en_gris -l pl
-Motyw Devenir_en_gris dla WordPress publishing system.
+Motyw Devenir_en_gris dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Dxx
 Summary:	Dxx theme for WordPress
@@ -191,7 +192,7 @@ Obsoletes:	wordpress-themes
 The Dxx theme for WordPress publishing system.
 
 %description -n wordpress-theme-Dxx -l pl
-Motyw Dxx dla WordPress publishing system.
+Motyw Dxx dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Hiperminimalist_v1
 Summary:	Hiperminimalist theme for WordPress
@@ -206,7 +207,7 @@ Obsoletes:	wordpress-themes
 The Hiperminimalist theme for WordPress publishing system.
 
 %description -n wordpress-theme-Hiperminimalist_v1 -l pl
-Motyw Hiperminimalist dla WordPress publishing system.
+Motyw Hiperminimalist dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Neuron
 Summary:	Neuron theme for WordPress
@@ -221,7 +222,7 @@ Obsoletes:	wordpress-themes
 The Neuron theme for WordPress publishing system.
 
 %description -n wordpress-theme-Neuron -l pl
-Motyw Neuron dla WordPress publishing system.
+Motyw Neuron dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Old_train
 Summary:	Old_train theme for WordPress
@@ -236,7 +237,7 @@ Obsoletes:	wordpress-themes
 The Old_train theme for WordPress publishing system.
 
 %description -n wordpress-theme-Old_train -l pl
-Motyw Old_train dla WordPress publishing system.
+Motyw Old_train dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Parishuddha
 Summary:	Parishuddha theme for WordPress
@@ -251,7 +252,7 @@ Obsoletes:	wordpress-themes
 The Parishuddha theme for WordPress publishing system.
 
 %description -n wordpress-theme-Parishuddha -l pl
-Motyw Parishuddha dla WordPress publishing system.
+Motyw Parishuddha dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Pool_v106
 Summary:	Pool theme for WordPress
@@ -266,7 +267,7 @@ Obsoletes:	wordpress-themes
 The Pool theme for WordPress publishing system.
 
 %description -n wordpress-theme-Pool_v106 -l pl
-Motyw Pool dla WordPress publishing system.
+Motyw Pool dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Spiral
 Summary:	Spiral theme for WordPress
@@ -281,7 +282,7 @@ Obsoletes:	wordpress-themes
 The Spiral theme for WordPress publishing system.
 
 %description -n wordpress-theme-Spiral -l pl
-Motyw Spiral dla WordPress publishing system.
+Motyw Spiral dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Spirit
 Summary:	Spirit theme for WordPress
@@ -296,7 +297,7 @@ Obsoletes:	wordpress-themes
 The Spirit theme for WordPress publishing system.
 
 %description -n wordpress-theme-Spirit -l pl
-Motyw Spirit dla WordPress publishing system.
+Motyw Spirit dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Steam
 Summary:	Steam theme for WordPress
@@ -311,7 +312,7 @@ Obsoletes:	wordpress-themes
 The Steam theme for WordPress publishing system.
 
 %description -n wordpress-theme-Steam -l pl
-Motyw Steam dla WordPress publishing system.
+Motyw Steam dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Thoughtmechanics
 Summary:	Thoughtmechanics theme for WordPress
@@ -326,7 +327,7 @@ Obsoletes:	wordpress-themes
 The Thoughtmechanics theme for WordPress publishing system.
 
 %description -n wordpress-theme-Thoughtmechanics -l pl
-Motyw Thoughtmechanics dla WordPress publishing system.
+Motyw Thoughtmechanics dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Trident
 Summary:	Trident theme for WordPress
@@ -341,9 +342,10 @@ Obsoletes:	wordpress-themes
 The Trident theme for WordPress publishing system.
 
 %description -n wordpress-theme-Trident -l pl
-Motyw Trident dla WordPress publishing system.
+Motyw Trident dla systemu publikacji WordPress.
 
 %prep
+# XXX: DON'T USE subdirs in -n - they break --clean
 %setup -q -c -n %{name}-%{version}/%{themessubdir}
 %setup -q -D -T -c -n %{name}-%{version}/%{themessubdir}/hiperminimalist-v1 -b20
 %setup -q -D -T -c -n %{name}-%{version}/%{themessubdir}/pool-v106 -b24
