@@ -2,7 +2,7 @@ Summary:	Additional themes for the WordPress personal publishing system
 Summary(pl):	Dodatkowe motywy dla osobistego systemu publikacji WordPress
 Name:		wordpress-themes
 Version:	1.5
-Release:	2
+Release:	3
 License:	GPL
 Group:		Applications/Publishing
 URL:		http://codex.wordpress.org/Using_Themes
@@ -53,7 +53,7 @@ Obsoletes:	wordpress-theme
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
-%define	wordpressdir	/home/services/httpd/html/wordpress
+%define	wordpressdir	%{_datadir}/wordpress
 %define	themessubdir	wp-content/themes
 %define	themesdir	%{wordpressdir}/%{themessubdir}
 
