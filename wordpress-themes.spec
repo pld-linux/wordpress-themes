@@ -350,7 +350,7 @@ Motyw Trident dla systemu publikacji WordPress.
 %setup -q -D -T -c -n %{name}-%{version}/%{themessubdir}/hiperminimalist-v1 -b20
 %setup -q -D -T -c -n %{name}-%{version}/%{themessubdir}/pool-v106 -b24
 %setup -q -D -T -c -n %{name}-%{version}/%{themessubdir} -a12 -a13 -a14 -a15 -a16 -a17 -a21 -a22 -a23 -a25 -a26 -a27 -a28 -a29
-unrar x %{SOURCE18} >/dev/null
+unrar -inul x %{SOURCE18}
 
 %install
 rm -rf $RPM_BUILD_ROOT
