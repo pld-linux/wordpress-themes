@@ -8,7 +8,7 @@ Group:		Applications/Publishing
 URL:		http://codex.wordpress.org/Using_Themes
 #Source0:	http://www.thoughtmechanics.com/templatefiles/v2.2/download.php?get=bionicjive.zip
 Source0:	bionicjive.zip
-# Source11-md5:	8702b83c2909ed0741ffc4dec7bb0b23
+# Source0-md5:	8702b83c2909ed0741ffc4dec7bb0b23
 # Source12:	http://www.thoughtmechanics.com/templatefiles/v2.2/download.php?get=benevolence.zip
 Source12:	benevolence.zip
 # Source12-md5:	c35dd174ff183aad0ee11cef4b38689f
@@ -40,7 +40,7 @@ Source25:	http://www.eretzvaju.org/download/spiral.tgz
 Source26:	http://www.bbiverson.com/spirit/wp-content/spirit.zip
 # Source26-md5:	7e0c9f7a6fdf32ccda102c3d9572a48c
 # Source27:	http://www.steamedpenguin.com/get/steam-1.5.tar.bz2
-Source27:	steam-%{version}.tar.bz2
+Source27:	steam-1.5.tar.bz2
 # Source27-md5:	c19dc9d2703053baf7da9b93bc6b7e16
 # Source28:	http://www.thoughtmechanics.com/templatefiles/v2.2/download.php?get=thoughtmechanics.zip
 Source28:	thoughtmechanics.zip
