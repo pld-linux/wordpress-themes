@@ -47,7 +47,6 @@ Source28:	thoughtmechanics.zip
 # Source28-md5:	ab7bd7c6eb775600bee34b1f4c7631d1
 Source29:	http://www.eretzvaju.org/download/trident.tgz
 # Source29-md5:	f384f5f6276c7702a9ccb3fe3c5c7f13
-BuildRequires:	FIX-FILES-AND-PREP
 BuildRequires:	unrar
 Requires:	wordpress = %{version}
 Obsoletes:	wordpress-theme
@@ -345,12 +344,11 @@ The Trident theme for WordPress publishing system.
 Motyw Trident dla systemu publikacji WordPress.
 
 %prep
-# XXX: DON'T USE subdirs in -n - they break --clean
-%setup -q -c -n %{name}-%{version}/%{themessubdir}
-%setup -q -D -T -c -n %{name}-%{version}/%{themessubdir}/hiperminimalist-v1 -b20
-%setup -q -D -T -c -n %{name}-%{version}/%{themessubdir}/pool-v106 -b24
-%setup -q -D -T -c -n %{name}-%{version}/%{themessubdir} -a12 -a13 -a14 -a15 -a16 -a17 -a21 -a22 -a23 -a25 -a26 -a27 -a28 -a29
+%setup -q -c -n %{name}-%{version} -a12 -a13 -a14 -a15 -a16 -a17 -a21 -a22 -a23 -a25 -a26 -a27 -a28 -a29
+unzip -qq %{SOURCE20} -d hiperminimalist-v1
+unzip -qq %{SOURCE24} -d pool-v106
 unrar -inul x %{SOURCE18}
+chmod u+rw devenir_en_gris
 
 %install
 rm -rf $RPM_BUILD_ROOT
