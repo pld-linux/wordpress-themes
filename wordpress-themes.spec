@@ -63,7 +63,7 @@ WordPress is a state-of-the-art semantic personal publishing platform
 with a focus on aesthetics, web standards, and usability.
 
 This package provides additional themes for WordPress found in the
-Net, wchich are released under GNU GPL license.
+Net, which are released under GNU GPL license.
 
 %description -l pl
 WordPress jest technologicznie dopracowan±, semantyczn±, osobist±
