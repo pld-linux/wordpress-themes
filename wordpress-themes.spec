@@ -1,5 +1,5 @@
 Summary:	Additional themes for the WordPress personal publishing system
-Summary(pl.UTF-8):   Dodatkowe motywy dla osobistego systemu publikacji WordPress
+Summary(pl.UTF-8):	Dodatkowe motywy dla osobistego systemu publikacji WordPress
 Name:		wordpress-themes
 Version:	1.5
 Release:	3
@@ -75,7 +75,7 @@ GPL.
 
 %package -n wordpress-theme-Bionicjive
 Summary:	Bionicjive theme for WordPress
-Summary(pl.UTF-8):   Motyw Bionicjive dla WordPress
+Summary(pl.UTF-8):	Motyw Bionicjive dla WordPress
 Group:		Applications/Publishing
 URL:		http://www.thoughtmechanics.com/
 Requires:	wordpress
@@ -90,7 +90,7 @@ Motyw Bionicjive dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Benevolence
 Summary:	Benevolence theme for WordPress
-Summary(pl.UTF-8):   Motyw Benevolence dla WordPress
+Summary(pl.UTF-8):	Motyw Benevolence dla WordPress
 Group:		Applications/Publishing
 URL:		http://www.thoughtmechanics.com/
 Requires:	wordpress
@@ -105,7 +105,7 @@ Motyw Benevolence dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Black
 Summary:	Black theme for WordPress
-Summary(pl.UTF-8):   Motyw Black dla WordPress
+Summary(pl.UTF-8):	Motyw Black dla WordPress
 Group:		Applications/Publishing
 URL:		http://www.eretzvaju.org/
 Requires:	wordpress
@@ -120,7 +120,7 @@ Motyw Black dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-ChinaRed_1
 Summary:	ChinaRed_1 theme for WordPress
-Summary(pl.UTF-8):   Motyw ChinaRed_1 dla WordPress
+Summary(pl.UTF-8):	Motyw ChinaRed_1 dla WordPress
 Group:		Applications/Publishing
 URL:		http://www.bighead.cn/wp-content/themes/
 Requires:	wordpress
@@ -135,7 +135,7 @@ Motyw ChinaRed_1 dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Cleanbreeze
 Summary:	Cleanbreeze theme for WordPress
-Summary(pl.UTF-8):   Motyw Cleanbreeze dla WordPress
+Summary(pl.UTF-8):	Motyw Cleanbreeze dla WordPress
 Group:		Applications/Publishing
 URL:		http://chris.coggburn.us/wp-content/cleanbreeze/
 Requires:	wordpress
@@ -150,7 +150,7 @@ Motyw Cleanbreeze111 dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Conestogastreet
 Summary:	Conestogastreet theme for WordPress
-Summary(pl.UTF-8):   Motyw Conestogastreet dla WordPress
+Summary(pl.UTF-8):	Motyw Conestogastreet dla WordPress
 Group:		Applications/Publishing
 URL:		http://www.thoughtmechanics.com/
 Requires:	wordpress
@@ -165,7 +165,7 @@ Motyw Conestogastreet dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Devenir_en_gris
 Summary:	Devenir_en_gris theme for WordPress
-Summary(pl.UTF-8):   Motyw Devenir_en_gris dla WordPress
+Summary(pl.UTF-8):	Motyw Devenir_en_gris dla WordPress
 Group:		Applications/Publishing
 URL:		http://www.eretzvaju.org/
 Requires:	wordpress
@@ -180,7 +180,7 @@ Motyw Devenir_en_gris dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Dxx
 Summary:	Dxx theme for WordPress
-Summary(pl.UTF-8):   Motyw Dxx dla WordPress
+Summary(pl.UTF-8):	Motyw Dxx dla WordPress
 Group:		Applications/Publishing
 URL:		http://supremecolor.xoopiter.com/
 Requires:	wordpress
@@ -195,7 +195,7 @@ Motyw Dxx dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Hiperminimalist_v1
 Summary:	Hiperminimalist theme for WordPress
-Summary(pl.UTF-8):   Motyw Hiperminimalist dla WordPress
+Summary(pl.UTF-8):	Motyw Hiperminimalist dla WordPress
 Group:		Applications/Publishing
 URL:		http://www.lamateporunyogur.com/
 Requires:	wordpress
@@ -210,7 +210,7 @@ Motyw Hiperminimalist dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Neuron
 Summary:	Neuron theme for WordPress
-Summary(pl.UTF-8):   Motyw Neuron dla WordPress
+Summary(pl.UTF-8):	Motyw Neuron dla WordPress
 Group:		Applications/Publishing
 URL:		http://devel.bluegator.org/themes/
 Requires:	wordpress
@@ -225,7 +225,7 @@ Motyw Neuron dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Old_train
 Summary:	Old_train theme for WordPress
-Summary(pl.UTF-8):   Motyw Old_train dla WordPress
+Summary(pl.UTF-8):	Motyw Old_train dla WordPress
 Group:		Applications/Publishing
 URL:		http://www.eretzvaju.org/
 Requires:	wordpress
@@ -240,7 +240,7 @@ Motyw Old_train dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Parishuddha
 Summary:	Parishuddha theme for WordPress
-Summary(pl.UTF-8):   Motyw Parishuddha dla WordPress
+Summary(pl.UTF-8):	Motyw Parishuddha dla WordPress
 Group:		Applications/Publishing
 URL:		http://www.hpnadig.net/wordpress-themes/
 Requires:	wordpress
@@ -255,7 +255,7 @@ Motyw Parishuddha dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Pool_v106
 Summary:	Pool theme for WordPress
-Summary(pl.UTF-8):   Motyw Pool dla WordPress
+Summary(pl.UTF-8):	Motyw Pool dla WordPress
 Group:		Applications/Publishing
 URL:		http://www.lamateporunyogur.com/
 Requires:	wordpress
@@ -270,7 +270,7 @@ Motyw Pool dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Spiral
 Summary:	Spiral theme for WordPress
-Summary(pl.UTF-8):   Motyw Spiral dla WordPress
+Summary(pl.UTF-8):	Motyw Spiral dla WordPress
 Group:		Applications/Publishing
 URL:		http://www.eretzvaju.org/
 Requires:	wordpress
@@ -285,7 +285,7 @@ Motyw Spiral dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Spirit
 Summary:	Spirit theme for WordPress
-Summary(pl.UTF-8):   Motyw Spirit dla WordPress
+Summary(pl.UTF-8):	Motyw Spirit dla WordPress
 Group:		Applications/Publishing
 URL:		http://www.bbiverson.com/spirit/
 Requires:	wordpress
@@ -300,7 +300,7 @@ Motyw Spirit dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Steam
 Summary:	Steam theme for WordPress
-Summary(pl.UTF-8):   Motyw Steam dla WordPress
+Summary(pl.UTF-8):	Motyw Steam dla WordPress
 Group:		Applications/Publishing
 URL:		http://www.steamedpenguin.com/
 Requires:	wordpress
@@ -315,7 +315,7 @@ Motyw Steam dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Thoughtmechanics
 Summary:	Thoughtmechanics theme for WordPress
-Summary(pl.UTF-8):   Motyw Thoughtmechanics dla WordPress
+Summary(pl.UTF-8):	Motyw Thoughtmechanics dla WordPress
 Group:		Applications/Publishing
 URL:		http://www.thoughtmechanics.com/
 Requires:	wordpress
@@ -330,7 +330,7 @@ Motyw Thoughtmechanics dla systemu publikacji WordPress.
 
 %package -n wordpress-theme-Trident
 Summary:	Trident theme for WordPress
-Summary(pl.UTF-8):   Motyw Trident dla WordPress
+Summary(pl.UTF-8):	Motyw Trident dla WordPress
 Group:		Applications/Publishing
 URL:		http://www.eretzvaju.org/
 Requires:	wordpress
