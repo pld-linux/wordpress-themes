@@ -48,6 +48,7 @@ Source28:	thoughtmechanics.zip
 Source29:	http://www.eretzvaju.org/download/trident.tgz
 # Source29-md5:	f384f5f6276c7702a9ccb3fe3c5c7f13
 BuildRequires:	unrar
+BuildRequires:	unzip
 Requires:	wordpress = %{version}
 Obsoletes:	wordpress-theme
 BuildArch:	noarch
